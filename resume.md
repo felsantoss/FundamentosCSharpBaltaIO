@@ -20,3 +20,13 @@
 
     - Correções mais fácil
     - Mais simples de serem distribuidas
+
+# Sobre o C#
+### É uma linguagem tipada, compilada e gerenciada. 
+
+## Linguagem Gerenciada
+### Significa que sua excução depende de um gerenciador, conhecido como Runtime. Em C# o Runtime de CLR (Commom Language Runtime), é responsável por gerenciar memória, segurança, entre outros recursos, com isso não é necessário se preocupar com alocação de memória entre outras coisas.
+
+## IL - Intermediate Language
+### Para não ser necessário criar um gerenciador para cada linguagem mantida pela Microsoft, os códigos das linguagens C#, F#, VB.Net etc, são compilados por seus respectivos compiladores e antes de serem convertidos para linguagem de máquina (código binário) eles geram um código intermediário, chamado de IL (Intermediate Language) e depois disso que ele é compilado para a linguagem de máquina.
+### O processo de conversão do IL (Intermediate Languagem) para binário é conhecido como JIT (Just In Time).
