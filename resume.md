@@ -30,3 +30,12 @@
 ## IL - Intermediate Language
 ### Para não ser necessário criar um gerenciador para cada linguagem mantida pela Microsoft, os códigos das linguagens C#, F#, VB.Net etc, são compilados por seus respectivos compiladores e antes de serem convertidos para linguagem de máquina (código binário) eles geram um código intermediário, chamado de IL (Intermediate Language) e depois disso que ele é compilado para a linguagem de máquina.
 ### O processo de conversão do IL (Intermediate Languagem) para binário é conhecido como JIT (Just In Time).
+
+# Frameworks
+### Framework é um conjunto de biblioteca que usamos como base para construir nossas aplicações.
+
+## .NET Standard
+### O .NET Standard não é um Framework ele é apenas um contrato, chamado também de Surface API, o .NET Standard garante que todo o código escrito funcionará tanto no .NET Framework quanto no .NET Core. 
+
+## LTS (Long Term Support)
+### LTS ou Long Term Support, em português Suporte de Longa Data são as versões do framework recomendado pela Microsoft para que seja utilizado em produção. 
