@@ -1,0 +1,15 @@
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\bin\Debug\net8.0\TesteAppConsole.exe
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\bin\Debug\net8.0\TesteAppConsole.deps.json
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\bin\Debug\net8.0\TesteAppConsole.runtimeconfig.json
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\bin\Debug\net8.0\TesteAppConsole.dll
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\bin\Debug\net8.0\TesteAppConsole.pdb
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\obj\Debug\net8.0\TesteAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\obj\Debug\net8.0\TesteAppConsole.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\obj\Debug\net8.0\TesteAppConsole.AssemblyInfo.cs
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\obj\Debug\net8.0\TesteAppConsole.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\obj\Debug\net8.0\TesteAppConsole.sourcelink.json
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\obj\Debug\net8.0\TesteAppConsole.dll
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\obj\Debug\net8.0\refint\TesteAppConsole.dll
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\obj\Debug\net8.0\TesteAppConsole.pdb
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\obj\Debug\net8.0\TesteAppConsole.genruntimeconfig.cache
+C:\dev\FundamentosCSharpBaltaIO\TesteAppConsole\obj\Debug\net8.0\ref\TesteAppConsole.dll
