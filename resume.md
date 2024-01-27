@@ -39,3 +39,9 @@
 
 ## LTS (Long Term Support)
 ### LTS ou Long Term Support, em português Suporte de Longa Data são as versões do framework recomendado pela Microsoft para que seja utilizado em produção. 
+
+# Namespace
+### Enquanto as pastas são as divisões físicas no disco, o Namespace são as divisões lógicas, assim não podemos ter dois arquivos com o mesmo nome nas pastas. O ideal é ter apenas um namespace e uma classe por arquivo. 
+
+# Using
+### Ao utilizarmos a palavra reservada **using** conseguimos fazer as importações das bibliotecas necessárias que nosso programa irá utilizar. 
