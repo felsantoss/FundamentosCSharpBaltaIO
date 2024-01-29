@@ -45,3 +45,12 @@
 
 ## Using
 ### Ao utilizarmos a palavra reservada ***using*** conseguimos fazer as importações das bibliotecas necessárias que nosso programa irá utilizar. 
+
+## Object
+### Tipo genérico que recebe qualquer valor, exemplo: 
+
+```
+    object idade = 26; // Será do tipo object
+    object nome = "Felipe"; // Será do tipo object
+```
+
