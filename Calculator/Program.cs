@@ -1,5 +1,7 @@
 ﻿static void Somar()
 {
+    Console.Clear();
+
     Console.WriteLine("Método Somar\n");
     Console.WriteLine("Insira o primeiro valor:");
     double firstValue = Convert.ToDouble(Console.ReadLine());
@@ -14,6 +16,8 @@
 
 static void Subtratir()
 {
+    Console.Clear();
+
     Console.WriteLine("Método Subtratir\n");
 
     Console.WriteLine("Insira o primeiro valor:");
@@ -29,6 +33,8 @@ static void Subtratir()
 
 static void Multiplicar()
 {
+    Console.Clear();
+
     Console.WriteLine("Método Multiplicar\n");
 
     Console.WriteLine("Insira o primeiro valor:");
@@ -44,6 +50,8 @@ static void Multiplicar()
 
 static void Dividir()
 {
+    Console.Clear();
+    
     Console.WriteLine("Método Dividir\n");
 
     Console.WriteLine("Insira o primeiro valor:");
