@@ -51,7 +51,7 @@ static void Multiplicar()
 static void Dividir()
 {
     Console.Clear();
-    
+
     Console.WriteLine("Método Dividir\n");
 
     Console.WriteLine("Insira o primeiro valor:");
@@ -65,7 +65,11 @@ static void Dividir()
     Console.WriteLine($"{firstValue} / {secondValue} = {result}");
 }
 
-bool restart = true;
+static void Menu()
+{
+    Console.Clear();
+
+    bool restart = true;
 
 while (restart)
 {
@@ -102,3 +106,6 @@ while (restart)
 
     restart = response.ToLower() == "s";
 }
+}
+
+Menu();
