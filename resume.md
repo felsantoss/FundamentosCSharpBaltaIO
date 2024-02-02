@@ -54,3 +54,13 @@
     object nome = "Felipe"; // Será do tipo object
 ```
 
+## Heap e Stack
+### A memória é divida em duas partes, *Heap* e *Stack*:
+
+    - Heap armazena os dados
+    - Stack armazena as refêrencias para os dados
+
+### Qualquer tipo no .NET é tratado como *Tipo de Referência* (Reference Type) e *Tipo de Valor* (Value Type). Os tipos de valor armazenam dados e são armazenados em um local chamado Stack. Os tipos de referências armazenam o endereço do objeto que contém os dados e são armazenados em um local da memória chamado HEAP EX: (Arrays, Classes, Objects...).
+
+## Garbage Collector
+### Ele cuida da memória HEAP e quando algum item alocado nela não está sendo usado este item é encluido. 
