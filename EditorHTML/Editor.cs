@@ -29,5 +29,6 @@ public class Editor()
 
         Console.WriteLine("---------");
         Console.WriteLine("Deseja salvar o arquivo?"); // TODO (opção de sim ou não do usuário, Não perde o arquivo e Sim chama o visualizador de arquivo)
+        Viewer.Show(file.ToString());
     }
 }
