@@ -1,0 +1,15 @@
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\bin\Debug\net8.0\EditorHTML.exe
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\bin\Debug\net8.0\EditorHTML.deps.json
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\bin\Debug\net8.0\EditorHTML.runtimeconfig.json
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\bin\Debug\net8.0\EditorHTML.dll
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\bin\Debug\net8.0\EditorHTML.pdb
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\obj\Debug\net8.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\obj\Debug\net8.0\EditorHTML.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\obj\Debug\net8.0\EditorHTML.AssemblyInfo.cs
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\obj\Debug\net8.0\EditorHTML.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\obj\Debug\net8.0\EditorHTML.sourcelink.json
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\obj\Debug\net8.0\EditorHTML.dll
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\obj\Debug\net8.0\refint\EditorHTML.dll
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\obj\Debug\net8.0\EditorHTML.pdb
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\obj\Debug\net8.0\EditorHTML.genruntimeconfig.cache
+C:\dev\FundamentosCSharpBaltaIO\EditorHTML\obj\Debug\net8.0\ref\EditorHTML.dll

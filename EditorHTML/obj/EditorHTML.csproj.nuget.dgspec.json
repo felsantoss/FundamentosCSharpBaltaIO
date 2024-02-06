@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\EditorHTML.csproj": {}
+    "C:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\EditorHTML.csproj": {}
   },
   "projects": {
-    "c:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\EditorHTML.csproj": {
+    "C:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\EditorHTML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\EditorHTML.csproj",
+        "projectUniqueName": "C:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\EditorHTML.csproj",
         "projectName": "EditorHTML",
-        "projectPath": "c:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\EditorHTML.csproj",
+        "projectPath": "C:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\EditorHTML.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\obj\\",
+        "outputPath": "C:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",

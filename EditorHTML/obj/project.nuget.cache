@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZRF7I6giOSEzm2xsYdUEZHZ4QFd/5IJhvbaSGDd0rWS3QR/QKYLwRYKRTqVtsYhf4cIXRf72Y02E5rgusM28XA==",
+  "dgSpecHash": "bqTA4cmZOshbDz/8ZQhADqv1vy67BYv3LJHkg4vrf3oArBIv16kVH3dxE0QUOCxQA+shz8gnNqH/BJamARiMRQ==",
   "success": true,
-  "projectFilePath": "c:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\EditorHTML.csproj",
+  "projectFilePath": "C:\\dev\\FundamentosCSharpBaltaIO\\EditorHTML\\EditorHTML.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
