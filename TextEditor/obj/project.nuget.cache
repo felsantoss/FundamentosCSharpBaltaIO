@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P6B4kb7NXNpAnCUMEyg+znM+qI3WH+w1Kbi01wMsKONpTFAa8YJw4oO9Ipv+z/k3hMdOiSh/1Z859z3II+IBng==",
+  "dgSpecHash": "MDl1a6Du7dnPfyQYxXPKRPthj4gk/X+TGIinIDZSuENwaVgTkdXPZbHLOrkK2JpDYAMe5qCAUybmb8Scfs/0+A==",
   "success": true,
-  "projectFilePath": "c:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\TextEditor.csproj",
+  "projectFilePath": "C:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\TextEditor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

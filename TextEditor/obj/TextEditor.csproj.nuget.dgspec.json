@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\TextEditor.csproj": {}
+    "C:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\TextEditor.csproj": {}
   },
   "projects": {
-    "c:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\TextEditor.csproj": {
+    "C:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\TextEditor.csproj",
+        "projectUniqueName": "C:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "c:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\TextEditor.csproj",
+        "projectPath": "C:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\TextEditor.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\obj\\",
+        "outputPath": "C:\\dev\\FundamentosCSharpBaltaIO\\TextEditor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
