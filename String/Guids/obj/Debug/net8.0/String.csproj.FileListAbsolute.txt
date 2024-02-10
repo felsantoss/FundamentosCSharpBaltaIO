@@ -1,0 +1,15 @@
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\bin\Debug\net8.0\String.exe
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\bin\Debug\net8.0\String.deps.json
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\bin\Debug\net8.0\String.runtimeconfig.json
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\bin\Debug\net8.0\String.dll
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\bin\Debug\net8.0\String.pdb
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\obj\Debug\net8.0\String.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\obj\Debug\net8.0\String.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\obj\Debug\net8.0\String.AssemblyInfo.cs
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\obj\Debug\net8.0\String.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\obj\Debug\net8.0\String.sourcelink.json
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\obj\Debug\net8.0\String.dll
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\obj\Debug\net8.0\refint\String.dll
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\obj\Debug\net8.0\String.pdb
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\obj\Debug\net8.0\String.genruntimeconfig.cache
+C:\dev\FundamentosCSharpBaltaIO\String\Guids\obj\Debug\net8.0\ref\String.dll
