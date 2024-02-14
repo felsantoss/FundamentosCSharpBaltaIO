@@ -1,0 +1,15 @@
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\bin\Debug\net8.0\StartsWithEndsWith.exe
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\bin\Debug\net8.0\StartsWithEndsWith.deps.json
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\bin\Debug\net8.0\StartsWithEndsWith.runtimeconfig.json
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\bin\Debug\net8.0\StartsWithEndsWith.dll
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\bin\Debug\net8.0\StartsWithEndsWith.pdb
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.AssemblyInfo.cs
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.sourcelink.json
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.dll
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\obj\Debug\net8.0\refint\StartsWithEndsWith.dll
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.pdb
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.genruntimeconfig.cache
+C:\dev\FundamentosCSharpBaltaIO\String\StartsWithEndsWith\obj\Debug\net8.0\ref\StartsWithEndsWith.dll
