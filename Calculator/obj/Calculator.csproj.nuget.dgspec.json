@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\FundamentosCSharpBaltaIO\\Calculator\\Calculator.csproj": {}
+    "c:\\dev\\FundamentosCSharpBaltaIO\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\dev\\FundamentosCSharpBaltaIO\\Calculator\\Calculator.csproj": {
+    "c:\\dev\\FundamentosCSharpBaltaIO\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\FundamentosCSharpBaltaIO\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "c:\\dev\\FundamentosCSharpBaltaIO\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\dev\\FundamentosCSharpBaltaIO\\Calculator\\Calculator.csproj",
+        "projectPath": "c:\\dev\\FundamentosCSharpBaltaIO\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\FundamentosCSharpBaltaIO\\Calculator\\obj\\",
+        "outputPath": "c:\\dev\\FundamentosCSharpBaltaIO\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
