@@ -7,6 +7,14 @@ try
         Console.WriteLine(arr[i]);
     }
 }
+// Tipo especifico de Exception
+catch(IndexOutOfRangeException ex)
+{
+    Console.WriteLine(ex.InnerException);
+    Console.WriteLine(ex.Message);
+    Console.WriteLine("Item excede a lista atual");
+}
+// Exception para trativa de forma genérica
 catch(Exception ex)
 {
     Console.WriteLine("Algo deu errado!");
